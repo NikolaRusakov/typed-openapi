@@ -6,7 +6,7 @@ import { rollup } from "rollup";
 import dts from "rollup-plugin-dts";
 import type { PackageJson } from "type-fest";
 
-import { OutputRuntime } from "typed-openapi";
+import { OutputRuntime } from "@doto-solutions/typed-openapi";
 
 const getDeps = (pkg: PackageJson) =>
   Object.keys(pkg.dependencies ?? {}).concat(

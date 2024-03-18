@@ -3,7 +3,7 @@ import type { editor } from "monaco-editor";
 import { assign, createMachine } from "xstate";
 import { choose } from "xstate/lib/actions";
 import { safeJSONParse } from "pastable/utils";
-import { generateFile, mapOpenApiEndpoints, type OutputRuntime } from "typed-openapi";
+import { generateFile, mapOpenApiEndpoints, type OutputRuntime } from "@doto-solutions/typed-openapi";
 import { parse } from "yaml";
 
 // @ts-expect-error

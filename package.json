@@ -1,5 +1,5 @@
 {
-  "name": "@doto-solutons/typed-openapi",
+  "name": "typed-openapi",
   "private": true,
   "repository": {
     "type": "git",

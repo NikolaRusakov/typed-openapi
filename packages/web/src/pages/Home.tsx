@@ -9,7 +9,7 @@ import { ColorModeSwitch } from "../components/color-mode-switch";
 import { GithubIcon } from "../components/github-icon";
 import { IconButton } from "../components/icon-button";
 import { SelectRuntime } from "../components/select-demo";
-import { OutputRuntime } from "typed-openapi";
+import { OutputRuntime } from "@doto-solutions/typed-openapi";
 import { TwitterIcon } from "../components/twitter-icon";
 
 export const Home = () => {
