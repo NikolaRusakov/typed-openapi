@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/astahmer/typed-openapi.git",
+    "url": "https://github.com/NikolaRusakov/typed-openapi.git",
     "directory": "packages/typed-openapi"
   },
   "scripts": {
